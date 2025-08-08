@@ -26,6 +26,7 @@ body {
 .conteudo {
     align-items: center;
     text-align: center;
+    padding-left: 50%;
 }
 
 h3 {
