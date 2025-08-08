@@ -26,7 +26,6 @@ body {
 .conteudo {
     align-items: center;
     text-align: center;
-    padding-left: 50%;
 }
 
 h3 {
@@ -35,6 +34,7 @@ h3 {
 
 p {
     margin-top: 28px;
+    text-align: center;
 }
 
 img {
