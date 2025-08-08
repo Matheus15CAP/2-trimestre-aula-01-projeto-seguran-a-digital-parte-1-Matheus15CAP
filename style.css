@@ -15,6 +15,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: var(--corpof);
+    text-align: center;
 }
 
 body {
@@ -63,4 +64,5 @@ a {
 
 .cta-footer {
  color: purple;
+ align-items: center;
 }
